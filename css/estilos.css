@@ -1,0 +1,36 @@
+body{
+  max-width: 1050px;
+  margin: auto;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: rgb(173, 235, 235);
+}
+ 
+ 
+ 
+ 
+ .titulo{
+    color: rebeccapurple;
+  }
+
+table {
+    border: 3px solid;
+   }
+  
+  th {
+    background-color:#00aa8e;
+    border: 1px solid;
+   }
+  
+    td {
+    border: 1px solid;
+    color: salmon;
+   }
+  
+  p{
+    color: rgb(62, 32, 199);
+  }
+  ul{
+    color: slategray;
+    list-style: circle;
+  }
+  
